@@ -1,0 +1,152 @@
+{
+  "pays": "Roumanie",
+  "drapeau": "🇷🇴",
+  "symbole": "🌸",
+  "titre": "Escapade relaxante à Timisoara, la \"Petite Vienne\"",
+  "budget_total": "600€",
+  "duree": "3 jours",
+  "temps_vol": "4h45 depuis Paris, France",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans le cœur historique",
+      "legende": "Débutez votre séjour en douceur par l'arrivée à Timisoara, la capitale européenne de la culture 2023.\nAprès l'installation à votre hôtel, plongez directement dans l'ambiance vibrante de la Place de l'Union, véritable joyau architectural.\nLaissez-vous charmer par les façades colorées et l'atmosphère paisible des terrasses.\nUne première journée idéale pour s'acclimater et ressentir le pouls de la ville.",
+      "lieu": "Timisoara",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Timisoara (TSR) et transfert vers le centre-ville. Profitez du trajet pour apercevoir les premiers paysages roumains.",
+        "<strong>🛏️</strong>: Installation à votre hôtel. Prenez le temps de vous rafraîchir et de vous détendre après le voyage.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante sur la Place de l'Union (Piața Unirii). Admirez l'architecture baroque et les terrasses animées, parfait pour une première immersion.",
+        "<strong>🍽️</strong>: Dîner dans un restaurant traditionnel roumain. Goûtez aux saveurs locales dans une ambiance conviviale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Des bus (lignes E4 ou E4 barat) relient l'aéroport au centre-ville en environ 20-30 minutes pour un coût modique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture, parcs et sérénité au fil de l'eau",
+      "legende": "Cette journée est dédiée à la découverte du riche patrimoine culturel et des espaces verts apaisants de Timisoara.\nDe l'imposante Cathédrale Métropolitaine aux allées fleuries du Parc des Roses, chaque étape invite à la contemplation.\nTerminez par une promenade le long du canal Bega, offrant une perspective différente sur la ville.\nUne journée équilibrée entre découvertes culturelles et moments de pure détente.",
+      "lieu": "Timisoara",
+      "activites": [
+        "<strong>⛪</strong>: Visite de la Cathédrale Métropolitaine Orthodoxe. Admirez son architecture byzantine et ses fresques intérieures impressionnantes, un symbole de la ville.",
+        "<strong>🌳</strong>: Promenade au Parc des Roses (Parcul Rozelor). Détendez-vous au milieu de milliers de rosiers en fleurs (selon la saison), un havre de paix en plein cœur de la ville.",
+        "<strong>🛶</strong>: Balade en bateau sur le Canal Bega. Profitez d'une perspective unique sur Timisoara depuis l'eau, une activité douce et rafraîchissante.",
+        "<strong>☕</strong>: Pause café dans un des nombreux cafés branchés du quartier Fabric. Imprégnez-vous de l'ambiance locale et de l'architecture industrielle rénovée."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez des chaussures confortables, la plupart des sites sont accessibles à pied et les balades sont nombreuses."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Derniers charmes et départ",
+      "legende": "Avant de quitter Timisoara, profitez d'une dernière matinée pour explorer le quartier Fabric, connu pour son marché et ses bâtiments historiques.\nFlânez, faites quelques emplettes de souvenirs et savourez un dernier repas roumain.\nIl sera ensuite temps de rejoindre l'aéroport, la tête remplie de beaux souvenirs de cette charmante ville.\nUne fin de séjour en douceur, propice aux derniers clichés et aux adieux à la \"Ville des Fleurs\".",
+      "lieu": "Timisoara",
+      "activites": [
+        "<strong>🏘️</strong>: Exploration du quartier Fabric et de la Place Traian. Découvrez l'ancien quartier industriel transformé, avec son marché et ses bâtiments colorés.",
+        "<strong>🎁</strong>: Achats de souvenirs locaux. Trouvez des objets artisanaux ou des produits typiques pour prolonger le voyage une fois rentré.",
+        "<strong>🍽️</strong>: Déjeuner léger avant le départ. Profitez d'un dernier repas roumain ou d'une pâtisserie locale.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Timisoara (TSR) pour votre vol retour. Gardez en mémoire les moments de détente et de découverte."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Vérifiez les horaires de votre vol retour et prévoyez suffisamment de temps pour le transfert et les formalités à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 283 €/pers",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 30 €/pers (bus aéroport, transports en commun)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 120 €/pers (40€/jour pour 3 repas + boissons)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 120 €/pers (60€/nuit pour 2 nuits en hôtel 3* partagé)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 30 €/pers (entrées musées, balade en bateau)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Septembre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Leu Roumain (RON). Les cartes bancaires sont largement acceptées, mais prévoyez un peu de liquide pour les petits commerces.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Timisoara est une ville très agréable à explorer à pied. Le réseau de tram et bus est efficace pour les distances plus longues.",
+      "symbole": "🚶‍♀️"
+    },
+    {
+      "titre": "Le roumain est la langue officielle, mais l'anglais est souvent parlé dans les zones touristiques et par les jeunes.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Timisoara a été Capitale Européenne de la Culture en 2023, ce qui a dynamisé l'offre culturelle et les infrastructures.",
+      "symbole": "💡"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-TSR/2026-03-20/2026-03-23",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Office de Tourisme Timisoara",
+      "titre": "Découvre Timisoara",
+      "url": "https://www.timisoara.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun Timisoara",
+      "titre": "RATT Timisoara",
+      "url": "https://stpt.ro/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Timisoara",
+      "url": "https://www.accuweather.com/fr/ro/timisoara/287385/weather-forecast/287385",
+      "symbole": "🌤️"
+    }
+  ]
+}
